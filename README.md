@@ -17,6 +17,7 @@ Leonhard Euler was a noteworthy mathematician and physicist.  I guess some helpf
 ###Problem 9
 ###Problem 10
 ###Problem 11
+The JavaScript version could be DRYer.
 
 
 [projecteuler.net]:http://www.projecteuler.net
