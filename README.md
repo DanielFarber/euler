@@ -11,6 +11,7 @@ Leonhard Euler was a noteworthy mathematician and physicist.  I guess some helpf
 ###Problem 3
 ###Problem 4
 ###Problem 5
+I wrote the js version first but in Ruby, it was unbearably so.  So, I concluded logically that the iterator could run in factors of 190 which made it instantaneous.
 ###Problem 6
 ###Problem 7
 ###Problem 8
