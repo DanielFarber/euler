@@ -20,6 +20,8 @@ Learned a little about the Ruby Prime class, which did all of the work in my Rub
 ###Problem 10
 ###Problem 11
 The JavaScript version could be DRYer.
+###Problem 12
+The square root is a powerful component of a lot of these processes.
 
 
 [projecteuler.net]:http://www.projecteuler.net
