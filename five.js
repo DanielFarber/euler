@@ -8,14 +8,14 @@ function qualifies(num) {
 }
 
 var output = false
-var i = 2520
+var i = 190
 
 while (!output) {
 	if (qualifies(i)) {
 		output = i
 	}
 	else {
-		i++
+		i += 190
 	}
 }
 
