@@ -24,6 +24,8 @@ The JavaScript version could be DRYer.
 The square root is a powerful component of a lot of these processes.  The code is basically the same but the Ruby version is slower.
 ###Problem 13
 I had no trouble getting the solution by simply adding the integers together, both in JS and Ruby.
+###Problem 14
+In the JS version, I simply run the Collatz sequence for every integer under 1,000,00.  I tried something a little different in Ruby, though: I save each result in a hash and if, in the course of the sequence, a number that's already in the hash is encountered, it just adds that total to the result.  I don't think this is any more efficient, though.
 
 
 [projecteuler.net]:http://www.projecteuler.net
