@@ -21,7 +21,7 @@ Learned a little about the Ruby Prime class, which did all of the work in my Rub
 ###Problem 11
 The JavaScript version could be DRYer.
 ###Problem 12
-The square root is a powerful component of a lot of these processes.
+The square root is a powerful component of a lot of these processes.  The code is basically the same but the Ruby version is slower.
 ###Problem 13
 I had no trouble getting the solution by simply adding the integers together, both in JS and Ruby.
 
