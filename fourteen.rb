@@ -46,3 +46,4 @@ while i < 1000000
 end
 
 puts ans
+puts resolved_collatzes[ans]
