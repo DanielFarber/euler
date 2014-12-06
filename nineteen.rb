@@ -1,6 +1,4 @@
-require "pry"
 twentieth_century = []
-week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
 months = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
