@@ -22,6 +22,12 @@ Done.
 I resolved to do a sort alg in JavaScript so that's what the js is for this problem.
 ###Problem 23
 Did it first in js.  Looks pretty ugly.
+###Problem 24
+There's a permutation method in Ruby that made this problem pretty easy to solve.  Maybe I was supposed to write a permutation algorithm.
+###Problem 25
+I use array indices as a value a lot.
+
+
 
 
 [projecteuler.net]:http://www.projecteuler.net

@@ -37,11 +37,14 @@ abundants.forEach(function(first) {
 	})
 })
 
+var last = 0
 var total = 0
 for (var i = 1; i < 28124; i++) {
 	if (!abundantSums[i]) {
 		total += i
+		last = i
 	}
 }
 
 console.log(total)
+console.log(last)
