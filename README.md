@@ -18,6 +18,10 @@ I had no trouble getting the solution by simply adding the integers together, bo
 In the JS version, I simply run the Collatz sequence for every integer under 1,000,00.  I tried something a little different in Ruby, though: I save each result in a hash and if, in the course of the sequence, a number that's already in the hash is encountered, it just adds that total to the result.  I don't think this is any more efficient, though.
 ###Problem 21
 Done.
+###Problem 22
+I resolved to do a sort alg in JavaScript so that's what the js is for this problem.
+###Problem 23
+Did it first in js.  Looks pretty ugly.
 
 
 [projecteuler.net]:http://www.projecteuler.net
