@@ -4,9 +4,6 @@ for (var i = 2; i < 1000; i++) {
 	var val = 1 / i
 	if (val.toString().length > 15) {
 		var got = divideToFiveThousandDecimalPlaces({dend: 1, vis: i, i: 1, out: ""})
-		while (got.out[0] === "0") {
-			got.out = got.out.substring(1, 99)
-		}
 		arr.push([got.out, i])
 	}
 }
