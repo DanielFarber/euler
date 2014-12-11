@@ -22,11 +22,11 @@ function detectPattern(frac) {
 var highest = 0
 var output = 0
 
-arr.forEach(function(arr) {
-	var pat = detectPattern(arr[0])
+arr.forEach(function(subArr) {
+	var pat = detectPattern(subArr[0])
 	if (pat && pat >= highest) {
 		highest = pat
-		output = arr[1]
+		output = subArr[1]
 	}
 })
 
